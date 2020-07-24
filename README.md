@@ -3,6 +3,10 @@
 
 **“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” - _Bill Gates_**
 
+- 🔭 I’m currently working on projects in Machine Learning and Artificial Intelligence domain
+- 🌱 I’m currently learning Time Management and Personal Finance 
+- 💬 Ask me about AIML
+
 <!--
 **architGitHub/architGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
