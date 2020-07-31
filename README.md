@@ -4,7 +4,7 @@
 **“Learning to write programs stretches your mind, and helps you think better, creates a way of thinking about things that I think is helpful in all domains.” - _Bill Gates_**
 
 - 🔭 I’m currently working on projects in Machine Learning and Artificial Intelligence domain
-- 🌱 I’m currently learning Time Management and Personal Finance 
+- 🌱 I’m currently learning Docker 
 - 💬 Ask me about AIML
 
 <!--
