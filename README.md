@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on projects in Machine Learning and Artificial Intelligence domain
 - 🌱 I’m currently learning Docker 
 - 💬 Ask me about AIML
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/saxenaarchit/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/saxenaarchit/)
 <!--
 **architGitHub/architGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
